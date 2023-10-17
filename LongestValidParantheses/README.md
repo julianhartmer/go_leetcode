@@ -1,8 +1,11 @@
+Level: hard
 Link: https://leetcode.com/problems/longest-valid-parentheses/
+untime: 0ms (beats 100%)
+Memory: 3.58 MB (beats 27%)
 
 
 Given a string containing just the characters `'('` and `')'`, return the length of the longest valid (well-formed) parentheses substring.
- 
+
 
 Example 1:
 
@@ -21,7 +24,7 @@ Example 3:
 Input: `s = ""`
 Output: 0
 
- 
+
 
 Constraints:
 
